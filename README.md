@@ -4,8 +4,8 @@
 <div align='center'>
   <h3>🌳 About Me</h3>
   <div>
-    <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <a href="velog.io/@summerkim0825"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=velog.io%2F%40summerkim0825"/>
+    <a href="mailto:summerkim0825@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:summerkim0825@gmail.com"/></a>
   </div>
   <br/>
   <h3>📚 Tech Stack</h3>
