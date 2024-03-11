@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=5EA152&height=140&text=Soeun_Code&fontColor=dddddd&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=5EA152&height=140&text=Soeun_Code&fontColor=ffffff&fontSize=60)
 <div align='center'>
 <br/>
   <h3>🌳 About Me</h3>
